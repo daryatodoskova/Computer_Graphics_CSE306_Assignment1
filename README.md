@@ -11,5 +11,7 @@ This raytracer project includes the following features :
 - Ray mesh intersection including BVH
 
 To compile on mac:
+
 $ g++ -O3 main.cpp -lpthread -std=c++11 -o main.out 
+
 $ ./main.out 
